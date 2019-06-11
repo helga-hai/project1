@@ -1,0 +1,9 @@
+Name SecondName ; example@gmail.com ; 1231231212 ; UA130
+Name SecondName ; example@gmail.com ; 1231231212 ; FOXTROT
+Name SecondName ; example@gmail.com ; 1231231212 ; UA130
+Name SecondName ; example@gmail.com ; 1231231212 ; UA130
+Name SecondName ; example@ukr.net ; 1231231212 ; FOXTROT
+Name SecondName ; example@gmail.com ; 1231231212 ; BAZA
+Name ; example@gmail.com ; 1231231212 ; FOXTROT
+Name ; example@ua.fm ; 1231231212 ; BAZA
+Name SecondName ; example@gmail.com ; 1231231212 ; BAZA
