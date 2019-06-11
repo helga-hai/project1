@@ -21,11 +21,11 @@ $validator->field('Email')->isEmail();
 
 
 $pp->requireReCaptcha();
-$pp->getReCaptcha()->initSecretKey('6LfNKHQUAAAAAFfyCa53bQzVp_G8V3eaIUFD5tLl');
+$pp->getReCaptcha()->initSecretKey('yourkey');
 
 //Customizing PHPMailer
 $mailer = $pp->getMailer();
-$mailer->setFrom('info@gazer.com','GAZER', false);
+$mailer->setFrom('example@thms.com','GAZER', false);
 //Customizing PHPMailer END
 $mailer->CharSet = 'UTF-8';
 //$mailer->$sss = $_POST['email'];
